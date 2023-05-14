@@ -1,1 +1,1 @@
-# -Unit5-02-PHP-ProductOfNumbers
+# Unit5-02-PHP-ProductOfNumbers
