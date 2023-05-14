@@ -1,0 +1,29 @@
+/* Created on May 2023
+ * This CSS file defines the style for index.html
+ * Unit5-01-PHP-ProductOfNumber
+*/
+
+#pink {
+  background-color: #fbe9f9
+;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+  text-align: center;
+  color: #db00c9;
+  font-weight: 600;
+}
+
+h1 { 
+  background-color: #f0ffff;
+  text-align: center;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+  color: #00c2db;
+}
+
+p { 
+  color: #db00c9;
+  font-weight: 600;
+}
